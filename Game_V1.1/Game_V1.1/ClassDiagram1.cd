@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game_V1._2.AStar" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAAABAAAAgAAGACAAAAAAAAAAAAA=</HashCode>
+      <FileName>AStar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Communicator" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAVAQAIAACAQAACABAQCCCAAAEAARAAAALABAA=</HashCode>
+      <FileName>Communicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Form1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAIAQAACCAABABAGKAAKACAAQKAAAAAEQICAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Game1" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4oaKlUIbgMZJIywwACAAJ0DrIEanAAkAIIAeS6SABEY=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Navigator" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAACAAAIAAAAQAAAAAA=</HashCode>
+      <FileName>Navigator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Player" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAIAgIAAAAIAEAAAAAAACACBAAAAEAAAg=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Program" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.StarNode" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>StarNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Brick" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Data Items\Brick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Bullet" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAACAAAAAAA=</HashCode>
+      <FileName>Data Items\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Coin" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAIKAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data Items\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.LifePack" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAIKAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data Items\LifePack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Square" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAAAQAAAAAAAAAAQABBCACAABAAAAAAAAg=</HashCode>
+      <FileName>Data Items\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Stone" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data Items\Stone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Data_Items.Water" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data Items\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_V1._2.Util.Constants" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAEABBAAAAAJAAAAAAABAACIIQoAEAAAAgAA=</HashCode>
+      <FileName>Util\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

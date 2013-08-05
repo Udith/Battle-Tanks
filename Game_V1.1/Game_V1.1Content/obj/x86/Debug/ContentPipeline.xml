@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-11-11T16:03:47.3289864+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick100.jpg</Source>
+      <Name>brick100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\brick100.xnb</Output>
+      <Time>2012-11-11T18:50:09.2881801+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick25.jpg</Source>
+      <Name>brick25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\brick25.xnb</Output>
+      <Time>2013-01-14T10:07:16.9178674+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick50.jpg</Source>
+      <Name>brick50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\brick50.xnb</Output>
+      <Time>2013-01-14T10:06:19.2925714+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick75.jpg</Source>
+      <Name>brick75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\brick75.xnb</Output>
+      <Time>2013-01-14T10:04:56.1118138+05:30</Time>
+    </Item>
+    <Item>
+      <Source>grass.jpg</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2012-11-11T18:50:09.2881801+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stone.jpg</Source>
+      <Name>stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\stone.xnb</Output>
+      <Time>2012-11-11T18:50:09.2881801+05:30</Time>
+    </Item>
+    <Item>
+      <Source>water.jpg</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2012-11-11T18:50:09.2881801+05:30</Time>
+    </Item>
+    <Item>
+      <Source>grass1.jpg</Source>
+      <Name>grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\grass1.xnb</Output>
+      <Time>2012-11-11T18:54:57.5549137+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank.png</Source>
+      <Name>tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2013-08-03T08:48:35.7665297+05:30</Time>
+    </Item>
+    <Item>
+      <Source>coin.png</Source>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\coin.xnb</Output>
+      <Time>2013-08-02T14:25:34.6720893+05:30</Time>
+    </Item>
+    <Item>
+      <Source>life.png</Source>
+      <Name>life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\life.xnb</Output>
+      <Time>2012-11-13T23:45:55.5106474+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank2.png</Source>
+      <Name>tank2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\tank2.xnb</Output>
+      <Time>2012-11-14T00:40:34.4180601+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background_white.jpg</Source>
+      <Name>background_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\background_white.xnb</Output>
+      <Time>2013-07-25T01:51:21.916147+05:30</Time>
+    </Item>
+    <Item>
+      <Source>white.jpg</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2013-07-25T01:54:26.6252964+05:30</Time>
+    </Item>
+    <Item>
+      <Source>finished.png</Source>
+      <Name>finished</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\finished.xnb</Output>
+      <Time>2013-07-27T00:23:34.1288368+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank1.png</Source>
+      <Name>tank1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\tank1.xnb</Output>
+      <Time>2013-07-25T09:15:04.7728876+05:30</Time>
+    </Item>
+    <Item>
+      <Source>medal.png</Source>
+      <Name>medal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\medal.xnb</Output>
+      <Time>2013-07-27T00:49:52.2645254+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Texture.png</Source>
+      <Name>Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\Texture.xnb</Output>
+      <Time>2013-07-27T01:51:39.1419344+05:30</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2013-07-27T09:34:33.3535783+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-08-02T14:21:23.1816963+05:30</Time>
+    </Item>
+    <Item>
+      <Source>init.png</Source>
+      <Name>init</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\init.xnb</Output>
+      <Time>2013-08-02T15:06:42.2876067+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tanklogo.png</Source>
+      <Name>tanklogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\tanklogo.xnb</Output>
+      <Time>2013-08-02T15:47:52.000551+05:30</Time>
+    </Item>
+    <Item>
+      <Source>arena.jpg</Source>
+      <Name>arena</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\arena.xnb</Output>
+      <Time>2013-08-03T12:41:52.0458821+05:30</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2012-11-17T23:17:38.0961602+05:30</Time>
+    </Item>
+    <Item>
+      <Source>heading.spritefont</Source>
+      <Name>heading</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\heading.xnb</Output>
+      <Time>2013-07-27T01:05:45.0432997+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Visual Studio Projects\Game_V1.1\Game_V1.1\Game_V1.1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-07-10T18:42:06.4488414+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
