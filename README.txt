@@ -1,0 +1,1 @@
+This is a multiplayer Battle Tanks game with AI players. For more information visit http://battletanks.byethost7.com/
